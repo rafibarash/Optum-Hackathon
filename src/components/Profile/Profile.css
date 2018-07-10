@@ -1,0 +1,15 @@
+.warning {
+  color: red;
+}
+
+.good {
+  color: green;
+}
+
+h1 {
+  padding-bottom: 40px;
+}
+
+img {
+  border-radius: 50%;
+}

@@ -1,0 +1,17 @@
+.forms {
+  padding: 75px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.main {
+  margin: 0 auto;
+  min-height: 82vh;
+  max-width: 1500px;
+}
+
+.errorPage {
+  color: black;
+  padding-top: 50px;
+  text-align: center;
+}
